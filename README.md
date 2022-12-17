@@ -1,3 +1,3 @@
-# react-lxpqs9
+# tailwind css
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-lxpqs9)
+I used it ot clearte a slider with tailwind css
